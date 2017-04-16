@@ -1,0 +1,22 @@
+{
+  "name": "handlebars-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha "
+  },
+  "keywords": [
+    "mustache"
+  ],
+  "author": "sakai.memoru",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.25.1",
+    "cson": "^4.1.0",
+    "handlebars": "^4.0.6",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0"
+  }
+}

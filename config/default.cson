@@ -1,0 +1,4 @@
+template : "{{name}} is {{age}}."
+listHandlerSample : """
+{{#list people}}{{firstName}} {{lastName}}{{/list}}
+"""
